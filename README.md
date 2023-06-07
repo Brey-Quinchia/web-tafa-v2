@@ -10,10 +10,15 @@
 </h2>
 
 ## Descripción
+
 Here description
+
 ## Sobre el Proyecto
+
 About the project
+
 ### **Build With ⛏️**
+
 <p align='center'>
 <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
 <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
